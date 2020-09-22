@@ -5,3 +5,4 @@ pillow
 opencv-python
 streamlit
 scikit-learn
+tensorflow
