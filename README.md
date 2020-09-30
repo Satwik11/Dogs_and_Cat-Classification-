@@ -14,8 +14,9 @@ In this Section we are implementing Convolution Neural Network(CNN) Classifier f
 * streamlit
 * scikit-learn
 * tensorflow
+* streamlit
 
-Then use the image of web app using streamlit 
+Then created a webapp using streamlit
 
 ### Images of web app : 
 ### for cat:
