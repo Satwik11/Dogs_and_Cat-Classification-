@@ -6,14 +6,14 @@ In this Section we are implementing Convolution Neural Network(CNN) Classifier f
 
 ## Dependencies
 
-numpy,
-matplotlib,
-keras,
-pillow,
-opencv-python,
-streamlit,
-scikit-learn,
-tensorflow
+* numpy
+* matplotlib
+* keras
+* pillow
+* opencv-python
+* streamlit
+* scikit-learn
+* tensorflow
 
 Then use the image of web app using streamlit 
 
