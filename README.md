@@ -32,20 +32,7 @@ The very first step in CNN is to classify image,since it very easy to visualize 
 This is something which helps in training our model with best fit. Augmentation is the pre-processing of image where an model is been trained with wide diversity of an image. This diversity of an image can be carried out in following ways like scaling, translation, rotation and flipping etc.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## To execute file:
 To see web app execute Making web app and hosting.ipynb as ngrock change url every time
 
 The Making web app and hosting.ipynb link is : https://colab.research.google.com/drive/1tZ4xgZE1XwgFHIo1_R0MqeyZv236gnjF?usp=sharing
